@@ -1,6 +1,6 @@
 # Django Social Graph API
 
-A collection of new and existing mods for Civ V that have been heavily edited for stability when packed into a multiplayer modpack.
+A simple Django Python-based social graph api for representing follower connections between users.
 
 ## Duplicating My Dev Environment
 
